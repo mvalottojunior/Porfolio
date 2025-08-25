@@ -43,6 +43,7 @@ This project explores SpaceX launch data to **predict Falcon 9 first stage landi
 - Collected stock and revenue data via **yfinance + web scraping**.  
 - Built interactive dashboards with **Plotly/Dash**.  
 - Visualized trends in revenue vs stock performance.  
+Mauro_Valotto_Coursera_Dashboard.ipynb
 
 
 ### 🎬 IMDb Top 1000 Movies Analysis  
