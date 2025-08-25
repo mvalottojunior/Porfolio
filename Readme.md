@@ -13,7 +13,7 @@ This portfolio showcases my **capstone project with SpaceX** and other data scie
 - Seeking **entry-level Data Analyst / Data Scientist roles**.  
 
 📧 Email: mauro.valotto@gmail.com  
-🔗 [LinkedIn](www.linkedin.com/in/mauro-valotto-jr-233b5a79) | [GitHub](https://github.com/mvalottojunior/Porfolio) 
+🔗 [LinkedIn](www.linkedin.com/in/mauro-valotto-jr-233b5a79) | [GitHub]([https://github.com/mvalottojunior/Porfolio) ](https://github.com/mvalottojunior#:~:text=Navigation%20Menu-,mvalottojunior,-Type)
 
 ---
 
