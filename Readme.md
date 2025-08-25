@@ -44,10 +44,12 @@ This project explores SpaceX launch data to **predict Falcon 9 first stage landi
 - Built interactive dashboards with **Plotly/Dash**.  
 - Visualized trends in revenue vs stock performance.  
 
+
 ### 🎬 IMDb Top 1000 Movies Analysis  
 - SQL + Python for EDA on IMDb dataset.  
 - Analyzed trends in ratings, genres, and top actors.  
 - Created charts to highlight popularity and rating patterns.  
+MauroValotto_IMDb_Dashboard.ipynb
 
 ---
 
