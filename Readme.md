@@ -50,7 +50,7 @@ Mauro_Valotto_Coursera_Dashboard.ipynb
 - SQL + Python for EDA on IMDb dataset.  
 - Analyzed trends in ratings, genres, and top actors.  
 - Created charts to highlight popularity and rating patterns.  
-MauroValotto_IMDb_Dashboard.ipynb
+[MauroValotto_IMDb_Dashboard.ipynb](https://github.com/mvalottojunior/MauroActivity#:~:text=MauroValotto_IMDb_Dashboard.ipynb)
 
 ---
 
