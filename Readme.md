@@ -33,7 +33,7 @@ This project explores SpaceX launch data to **predict Falcon 9 first stage landi
 - Booster version and flight number strongly correlate with landing outcomes.  
 - Data-driven predictions align with SpaceX’s reusable rocket strategy.  
 
-📂 **Source Code & Notebook**: (https://github.com/mvalottojunior)  
+📂 **Source Code & Notebook**: [(https://github.com/mvalottojunior) ](https://github.com/mvalottojunior/CapstonePresentation#:~:text=/-,CapstonePresentation,-Type) 
 
 ---
 
