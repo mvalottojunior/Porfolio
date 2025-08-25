@@ -55,7 +55,7 @@ This project explores SpaceX launch data to **predict Falcon 9 first stage landi
 ---
 
 ## 📄 Résumé
-📥 Mauro_Valotto_Junior_Data_Resume.pdf
+📥 [Mauro_Valotto_Junior_Data_Resume.pdf](https://github.com/mvalottojunior/Porfolio/blob/main/Mauro_Valotto_Junior_Data_Resume.pdf#:~:text=t-,Mauro_Valotto_Junior_Data_Resume,-.pdf)
 
 ---
 
